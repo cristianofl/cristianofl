@@ -1,4 +1,11 @@
-### Hi there 👋
+## Cristiano Freitas de Lima
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-My%20GitHub-181717?logo=GitHub)](https://github.com/cristianofl)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-0077B5?logo=LinkedIn)](https://www.linkedin.com/in/cristianofreitaslima)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-My%20Gmail-D14836?logo=Gmail)](mailto:cristianofreitaslimacfl@gmail.com)  
+
+[<img alt="DicasTecnologia" src="https://www.dicastecnologia.com.br/wp-content/uploads/2020/05/Dicas-Tecnologia-Logomarca-e1588306223912-150x150.jpg" width="150">](https://www.dicastecnologia.com.br/)
+
 
 <!--
 **cristianofl/cristianofl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
