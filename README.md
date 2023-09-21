@@ -1,11 +1,25 @@
 ## Cristiano Freitas de Lima
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-My%20GitHub-181717?logo=GitHub)](https://github.com/cristianofl)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-My%20LinkedIn-0077B5?logo=LinkedIn)](https://www.linkedin.com/in/cristianofreitaslima)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-My%20Gmail-D14836?logo=Gmail)](mailto:cristianofreitaslimacfl@gmail.com)  
+<div> 
+  <a href="https://www.linkedin.com/in/cristianofreitaslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/cristianofl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCgbSMqdtn6jWier3k8lbCtg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- <a href = "mailto:cristianofreitaslimacfl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href="mailto:cristianofl7@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.dicastecnologia.com.br/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/cristianofreitaslima" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
+</div>
 
-[<img alt="DicasTecnologia" src="https://www.dicastecnologia.com.br/wp-content/uploads/2020/05/Dicas-Tecnologia-Logomarca-e1588306223912-150x150.jpg" width="150">](https://www.dicastecnologia.com.br/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+</div>
 
+##
 
 <!--
 **cristianofl/cristianofl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
